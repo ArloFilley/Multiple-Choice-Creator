@@ -58,3 +58,5 @@ This creates a fighter object used for both the player and enemies
 
 <h2 align='left'>Development</h2>
 Development of this project is now done (I actually finished this months before uploading it). It has a number of technical and design faults however in most cases it works to do its job. Any new player can pick this up and have some fun. I hope you enjoy, and maybe someday I'll fix the mess of spaghetti code that I've made. :)
+<h2 align='left'>Current Version</h2>
+v2.0
